@@ -1,1 +1,5 @@
-# React-Hooks-2
+# React Hooks
+
+npm i react-icons axios
+
+https://jsonplaceholder.typicode.com/ 
